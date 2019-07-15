@@ -1,4 +1,4 @@
-# iDocker - Docker for Mac within a Ubuntu VM.
+# iDocker - Docker for Mac within an Ubuntu VM.
 
 ## Requires:
 * Vagrant - https://www.vagrantup.com/
