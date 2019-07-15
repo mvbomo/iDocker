@@ -17,4 +17,9 @@
 5. Navigate to var/www/html
 6. Clone repo, cd and then run make init
 
-
+TODO: (Need to do this on all rebuilds)
+Find a way to automate NVM install
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+nvm install 6.9.2
+nvm alias default 6.9.2
+npm install -g npm@3.10.9
