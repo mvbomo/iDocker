@@ -17,3 +17,4 @@
 5. Navigate to var/www/html
 6. Clone repo, cd and then run make init
 
+
