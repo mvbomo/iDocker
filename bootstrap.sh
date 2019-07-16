@@ -24,3 +24,6 @@ docker start
 # Node
 sudo apt-get install nodejs -y
 sudo apt-get install npm -y
+
+## Give Docker User Sudo access.
+usermod -aG sudo docker
